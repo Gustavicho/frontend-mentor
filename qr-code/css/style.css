@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    display: block;
+    font-family: 'Outfit';
+}
+
+body {
+    background: #D5E1EF;
+}
+
+.container {
+    margin: 20vh auto;
+    
+    background: #FFFFFF;
+    width: 319px;
+    height: 496px;
+    border-radius: 20px;
+    padding: 1px;
+}
+
+img {
+    margin: 20px auto;
+
+    width: 280px;
+    height: 280px;
+    border-radius: 10px;
+}
+
+.text {
+    text-align: center;
+    margin: 0 auto;
+    word-wrap: break-word;
+    width: 288px;
+    height: 129px;
+}
+
+h1 {
+    color: #1F314F;
+    font-weight: 800;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #7D889E;
+    font-size: 15px;
+}
