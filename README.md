@@ -1,2 +1,2 @@
-# frontend-mentor
-here i will share the challanges that's I made from Frontent Mentor
+# QR-code
+here is my first challange that i made from Frontent Mentor
